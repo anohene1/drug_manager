@@ -1,10 +1,11 @@
 # drugmanager
 
-A new Flutter application.
+A Flutter implementation of a dribbble mocckup
+
+## Screenshot
+![SS](https://github.com/anohene1/drug_manager/blob/main/Screenshot.png)
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
